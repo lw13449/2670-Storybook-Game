@@ -5,7 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Title.unity
+    guid: dd6f008f5b2471042b11ab35a1f53e6c
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 64725531a1d98e34aa900b8250ffd277
+  - enabled: 1
+    path: Assets/Scenes/Blocks.unity
+    guid: 76cee8d983cb61249bbb8fde17d1283c
+  - enabled: 1
+    path: Assets/Scenes/Toys in the Attic.unity
+    guid: 0f607f11a04cf14469908348be6beade
+  - enabled: 1
+    path: Assets/Scenes/Odds and Ends.unity
+    guid: 4b0ae272c627dee4f82f054a5da3b288
+  - enabled: 1
+    path: Assets/Scenes/At the Beach.unity
+    guid: ba6d70a38b93a9e45b977d64c828b045
+  - enabled: 1
+    path: Assets/Scenes/Arts and Crafts.unity
+    guid: 59647456de84e5248a27e44ad2e2a7b6
   m_configObjects: {}
