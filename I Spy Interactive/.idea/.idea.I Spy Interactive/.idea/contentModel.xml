@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\wrigh\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\wrigh\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_I Spy Interactive.499190006.00" t="ExcludeRecursive" />
+    <e p="C:\Users\wrigh\Documents\Fall 2019\GitKraken\2670-Storybook-Game\I Spy Interactive" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AssetAction" t="Include">
+            <e p="EventListening.cs" t="Include" />
+            <e p="GameAction.cs" t="Include" />
+            <e p="MouseEvents.cs" t="Include" />
+          </e>
+          <e p="Interfaces.cs" t="Include" />
+          <e p="PointSystem" t="Include">
+            <e p="AssetCollection.cs" t="Include" />
+            <e p="Assets.cs" t="Include" />
+            <e p="FloatData.cs" t="Include" />
+            <e p="ImageController.cs" t="Include" />
+          </e>
+          <e p="SceneChanger.cs" t="Include" />
+        </e>
+        <e p="Weapons" t="Include">
+          <e p="AmmoHandler.cs" t="Include" />
+          <e p="WeaponButtonHandler.cs" t="Include" />
+          <e p="WeaponConfig.cs" t="Include" />
+          <e p="WeaponHandler.cs" t="Include" />
+        </e>
+      </e>
+      <e p="I Spy Interactive.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
