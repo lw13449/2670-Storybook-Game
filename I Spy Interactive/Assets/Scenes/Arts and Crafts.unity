@@ -235,11 +235,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 053c36efbdfa2734386a8d768f3598c5,
         type: 3}
-    - target: {fileID: 4642800900341696546, guid: 52fb36e262ec4b2418a6d2b09acafa35,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: At the Beach
-      objectReference: {fileID: 0}
     - target: {fileID: 251257083346072468, guid: 52fb36e262ec4b2418a6d2b09acafa35,
         type: 3}
       propertyPath: m_Text
@@ -255,6 +250,16 @@ PrefabInstance:
       value: 'Nine gold star, a blue tube of glitter,
 
         One clay cat, and a six-legged critter.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7280750598587232361, guid: 52fb36e262ec4b2418a6d2b09acafa35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: At the Beach
+      objectReference: {fileID: 0}
+    - target: {fileID: 4642800900341696546, guid: 52fb36e262ec4b2418a6d2b09acafa35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: At the Beach
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 52fb36e262ec4b2418a6d2b09acafa35, type: 3}

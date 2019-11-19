@@ -311,22 +311,17 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4642800899996082365, guid: 52fb36e262ec4b2418a6d2b09acafa35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Odds and Ends
+      objectReference: {fileID: 0}
     - target: {fileID: 251257081636305252, guid: 52fb36e262ec4b2418a6d2b09acafa35,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 704533d5a31dff5479d1d5215f696df9,
         type: 3}
-    - target: {fileID: 4642800899996082365, guid: 52fb36e262ec4b2418a6d2b09acafa35,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Odds and Ends
-      objectReference: {fileID: 0}
-    - target: {fileID: 4642800900341696546, guid: 52fb36e262ec4b2418a6d2b09acafa35,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Blocks
-      objectReference: {fileID: 0}
     - target: {fileID: 251257083346072468, guid: 52fb36e262ec4b2418a6d2b09acafa35,
         type: 3}
       propertyPath: m_Text
@@ -339,6 +334,21 @@ PrefabInstance:
       value: 'A horse that rocks and a horse that rolls,
 
         A button with a square and one without holes.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3194768603935099549, guid: 52fb36e262ec4b2418a6d2b09acafa35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Odds and Ends
+      objectReference: {fileID: 0}
+    - target: {fileID: 7280750598587232361, guid: 52fb36e262ec4b2418a6d2b09acafa35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Blocks
+      objectReference: {fileID: 0}
+    - target: {fileID: 4642800900341696546, guid: 52fb36e262ec4b2418a6d2b09acafa35,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Blocks
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 52fb36e262ec4b2418a6d2b09acafa35, type: 3}

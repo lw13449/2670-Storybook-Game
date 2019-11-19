@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\wrigh\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AssetAction" t="Include">
+            <e p="AnimatorSetTrigger.cs" t="Include" />
             <e p="EventListening.cs" t="Include" />
             <e p="GameAction.cs" t="Include" />
             <e p="MouseEvents.cs" t="Include" />
