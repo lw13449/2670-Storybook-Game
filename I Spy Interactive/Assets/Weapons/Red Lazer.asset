@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d1add63962502343b92d8c3e1544a70, type: 3}
   m_Name: Red Lazer
   m_EditorClassIdentifier: 
+  damageAction: {fileID: 11400000, guid: 3820366cf5a47b3468cdbdd67376bdff, type: 2}
   weaponColor: {r: 1, g: 0, b: 0, a: 1}
+  weaponArt: {fileID: 4740860524133001434, guid: 44161ff3959dab243bb63e2aef70e1b2,
+    type: 3}
   ammoObj: {fileID: 3404643449498173275, guid: 4f17da020820b9c4fa4badaf2a37c4d1, type: 3}
+  playerHealth: {fileID: 11400000, guid: 80e2fb9a4304d124a8f2f85c5f8ccab7, type: 2}
+  firePower: -0.1
