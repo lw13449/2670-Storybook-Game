@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: e17d67c8615f8d44db6c0c393f4bebda
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: arts and crafts assets_0
+    21300002: arts and crafts assets_1
+    21300004: arts and crafts assets_2
+    21300006: arts and crafts assets_3
+    21300008: arts and crafts assets_4
+    21300010: arts and crafts assets_5
+    21300012: arts and crafts assets_6
+    21300014: arts and crafts assets_7
+    21300016: arts and crafts assets_8
+    21300018: arts and crafts assets_9
+    21300020: arts and crafts assets_10
+    21300022: arts and crafts assets_11
+    21300024: arts and crafts assets_12
+    21300026: arts and crafts assets_13
+    21300028: arts and crafts assets_14
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -82,11 +97,311 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: arts and crafts assets_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1344
+        width: 1020
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd1d3d606f668d429ebf05190c9a31f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_1
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1652
+        width: 784
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6bc6b0a2a2cde42accb4c7a545e165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 812
+        width: 308
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb7444a218b0654eb348910e5c2edad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 876
+        width: 491
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbcb71cb7399894f80b1ec7eac28bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 896
+        width: 536
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7144c0bf270641d4e967dda7d4dc25fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 462
+        width: 146
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e142effadbf8c439f7462847852e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 457
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3d0e6b1bae7df4f8ca875c59233c11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 184
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0321d757c8d74d90de11ab3b97bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 409
+        width: 161
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a7ae3145028114ca6332aaa1566c45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 396
+        width: 149
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7932683e71962f6408315a71ac5ef25e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_10
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 368
+        width: 132
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afa95d1333033f409b02228fcbb019b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_11
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 348
+        width: 161
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f032bd56668743ae7cac38903e06c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_12
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 332
+        width: 158
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767a06f9da463274fa37eae99e687853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_13
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 316
+        width: 156
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726e426282bcad47a84b3e2fb07efd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arts and crafts assets_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 28
+        width: 677
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e487435f35f687f4e8d83c5fb367b2e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8c415213f52d8974ab442fe4cbfcd122
     vertices: []
     indices: 
     edges: []
