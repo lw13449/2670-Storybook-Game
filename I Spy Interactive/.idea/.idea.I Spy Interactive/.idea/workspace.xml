@@ -19,6 +19,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetAction/AnimatorSetTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PointSystem/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Weapons/WeaponConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/debug.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetAction/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -30,6 +31,7 @@
         <option value="$PROJECT_DIR$/Assets/Weapons/WeaponConfig.cs" />
         <option value="$PROJECT_DIR$/Assets/Weapons/AmmoHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Weapons/WeaponHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/debug.cs" />
       </list>
     </option>
   </component>
@@ -85,6 +87,7 @@
       <workItem from="1574113413493" duration="12000" />
       <workItem from="1574207238861" duration="660000" />
       <workItem from="1574281941251" duration="2807000" />
+      <workItem from="1575320449980" duration="1419000" />
     </task>
     <servers />
   </component>

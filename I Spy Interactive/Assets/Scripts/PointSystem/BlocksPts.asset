@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d49d9471c689ab243807f347a1097f7c, type: 3}
   m_Name: BlocksPts
   m_EditorClassIdentifier: 
-  value: 1.00002
+  value: 0
   maxValue: 1
