@@ -1991,6 +1991,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Point Bar (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4227979184451582635, guid: 47a1a0e2e9f26694cbad180028fdba5d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4227979184451582636, guid: 47a1a0e2e9f26694cbad180028fdba5d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3557,6 +3562,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Scene View
       objectReference: {fileID: 0}
+    - target: {fileID: 1969142188829136972, guid: 52fb36e262ec4b2418a6d2b09acafa35,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 251257083211437439, guid: 52fb36e262ec4b2418a6d2b09acafa35,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3681,11 +3691,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
       value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 1969142188829136972, guid: 52fb36e262ec4b2418a6d2b09acafa35,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3302371335987989646, guid: 52fb36e262ec4b2418a6d2b09acafa35,
         type: 3}
