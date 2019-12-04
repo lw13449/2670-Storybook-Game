@@ -21,12 +21,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Toys in the Attic.unity
     guid: 0f607f11a04cf14469908348be6beade
   - enabled: 1
-    path: Assets/Scenes/Odds and Ends.unity
+    path: Assets/Scenes/Odds And Ends.unity
     guid: 4b0ae272c627dee4f82f054a5da3b288
   - enabled: 1
-    path: Assets/Scenes/At the Beach.unity
+    path: Assets/Scenes/At The Beach.unity
     guid: ba6d70a38b93a9e45b977d64c828b045
   - enabled: 1
-    path: Assets/Scenes/Arts and Crafts.unity
+    path: Assets/Scenes/Arts And Crafts.unity
     guid: 59647456de84e5248a27e44ad2e2a7b6
+  - enabled: 1
+    path: Assets/Scenes/End Page.unity
+    guid: 7129e594f7e1623478219771f89d73e0
   m_configObjects: {}

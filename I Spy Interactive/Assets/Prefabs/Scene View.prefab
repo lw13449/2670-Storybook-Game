@@ -550,7 +550,7 @@ GameObject:
   - component: {fileID: 1270779856468303818}
   - component: {fileID: 9208922107046444039}
   m_Layer: 5
-  m_Name: Image
+  m_Name: bacgkround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
