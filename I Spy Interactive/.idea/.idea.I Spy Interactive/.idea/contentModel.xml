@@ -20,6 +20,7 @@
             <e p="Assets.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="ImageController.cs" t="Include" />
+            <e p="ScoreScript.cs" t="Include" />
           </e>
           <e p="SceneChanger.cs" t="Include" />
         </e>

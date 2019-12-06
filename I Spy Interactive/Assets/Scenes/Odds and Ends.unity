@@ -337,7 +337,7 @@ PrefabInstance:
     - target: {fileID: 8163479799346955961, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_FloatArgument
-      value: 0.125
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163479799346955960, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
@@ -572,7 +572,7 @@ PrefabInstance:
     - target: {fileID: 8163479799346955961, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_FloatArgument
-      value: 0.125
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163479799346955960, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
@@ -807,7 +807,7 @@ PrefabInstance:
     - target: {fileID: 8163479799346955961, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_FloatArgument
-      value: 0.125
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163479799346955960, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
@@ -1129,7 +1129,7 @@ PrefabInstance:
     - target: {fileID: 8163479799346955961, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_FloatArgument
-      value: 0.125
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163479799346955960, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
@@ -1364,7 +1364,7 @@ PrefabInstance:
     - target: {fileID: 8163479799346955961, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_FloatArgument
-      value: 0.125
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163479799346955960, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
@@ -1698,7 +1698,14 @@ PrefabInstance:
 
         A small puzzle piece, and a crown for a king.'
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 6354068586966759106, guid: 52fb36e262ec4b2418a6d2b09acafa35,
+        type: 3}
+      propertyPath: scoreValue
+      value: 
+      objectReference: {fileID: 11400000, guid: 0563f0b61edf45a4d86aee236a86c0bb,
+        type: 2}
+    m_RemovedComponents:
+    - {fileID: 1969142188829136970, guid: 52fb36e262ec4b2418a6d2b09acafa35, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 52fb36e262ec4b2418a6d2b09acafa35, type: 3}
 --- !u!1001 &1313606698
 PrefabInstance:
@@ -1908,7 +1915,7 @@ PrefabInstance:
     - target: {fileID: 8163479799346955961, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_FloatArgument
-      value: 0.125
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163479799346955960, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
@@ -2131,7 +2138,7 @@ PrefabInstance:
     - target: {fileID: 8163479799346955961, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_FloatArgument
-      value: 0.125
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163479799346955960, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
@@ -2366,7 +2373,7 @@ PrefabInstance:
     - target: {fileID: 8163479799346955961, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_FloatArgument
-      value: 0.125
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8163479799346955960, guid: 26d945f080c5ef84ebc4c5068f7d8201,
         type: 3}

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: BeachPoints
   m_EditorClassIdentifier: 
   value: 0
-  maxValue: 1
+  maxValue: 21

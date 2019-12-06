@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: OddsPoints
   m_EditorClassIdentifier: 
   value: 0
-  maxValue: 1
+  maxValue: 8

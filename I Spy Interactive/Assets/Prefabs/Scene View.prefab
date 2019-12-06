@@ -1211,7 +1211,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The Point Bar will show you your progress and fill as you go on.
+  m_Text: Your Score will update as you find objects!
 --- !u!1 &9106814563296918182
 GameObject:
   m_ObjectHideFlags: 0
